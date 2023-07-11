@@ -110,7 +110,7 @@ num-bigint = { version = "0.4", features = ["rand"] }
 once_cell = "1.17.1"
 os_pipe = "=1.0.1"
 parking_lot = "0.12.0"
-percent-encoding = "=2.2.0"
+percent-encoding = "=2.3.0"
 pin-project = "1.0.11" # don't pin because they yank crates from cargo
 pretty_assertions = "=1.3.0"
 rand = "=0.8.5"
@@ -124,7 +124,7 @@ rustls-pemfile = "1.0.0"
 serde = { version = "1.0.149", features = ["derive"] }
 serde_bytes = "0.11"
 serde_json = "1.0.85"
-serde_repr = "=0.1.9"
+serde_repr = "=0.1.12"
 sha2 = { version = "0.10.6", features = ["oid"] }
 signature = "=1.6.4"
 slab = "0.4"
